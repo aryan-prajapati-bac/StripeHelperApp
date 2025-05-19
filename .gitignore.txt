@@ -1,0 +1,9 @@
+# Ignore build and debug output
+bin/
+obj/
+*.vshost.*
+
+# Optional: Ignore Visual Studio specific files
+*.user
+*.suo
+.vscode/

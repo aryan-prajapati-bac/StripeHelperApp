@@ -1,0 +1,11 @@
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\StripeHelperApp.exe.config
+D:\Projects\StripeHelperApp\StripeHelperApp\obj\Debug\StripeHelperApp.csprojResolveAssemblyReference.cache
+D:\Projects\StripeHelperApp\StripeHelperApp\obj\Debug\StripeHelperApp.Properties.Resources.resources
+D:\Projects\StripeHelperApp\StripeHelperApp\obj\Debug\StripeHelperApp.csproj.GenerateResource.Cache
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\StripeHelperApp.exe
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\StripeHelperApp.pdb
+D:\Projects\StripeHelperApp\StripeHelperApp\obj\Debug\StripeHelperApp.exe
+D:\Projects\StripeHelperApp\StripeHelperApp\obj\Debug\StripeHelperApp.pdb
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\Stripe.net.dll
+D:\Projects\StripeHelperApp\StripeHelperApp\bin\Debug\Newtonsoft.Json.dll
