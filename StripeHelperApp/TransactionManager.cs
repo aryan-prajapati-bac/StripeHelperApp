@@ -22,11 +22,11 @@ namespace StripeHelperApp
                 Console.WriteLine("Creating Connection Token...");
                 var token = await stripeHelper.CreateConnectionTokenAsync();
 
-                Console.WriteLine("Creating PaymentIntent...");
                 var paymentIntent = await stripeHelper.CreatePaymentIntentAsync((long)Convert.ToDouble(amount)); // $50
 
                 Console.WriteLine("PaymentIntent created: " + paymentIntent.Id);
 
+                Console.WriteLine("Creating PaymentIntent...");
                 var readerId = ConfigurationSettings.AppSettings["stripeReaderId"].ToString();
 
                 Console.WriteLine("Sending PaymentIntent to reader " + readerId);
